@@ -1,4 +1,3 @@
-
 // Pull in required dependencies
 var path = require('path');
 
